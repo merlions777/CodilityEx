@@ -1,0 +1,12 @@
+D:\Practise\BinaryGap\PermMissingElem\bin\Debug\PermMissingElem.exe.config
+D:\Practise\BinaryGap\PermMissingElem\obj\Debug\PermMissingElem.csprojResolveAssemblyReference.cache
+D:\Practise\BinaryGap\PermMissingElem\bin\Debug\PermMissingElem.exe
+D:\Practise\BinaryGap\PermMissingElem\bin\Debug\PermMissingElem.pdb
+D:\Practise\BinaryGap\PermMissingElem\obj\Debug\PermMissingElem.exe
+D:\Practise\BinaryGap\PermMissingElem\obj\Debug\PermMissingElem.pdb
+D:\Github\Codility\PermMissingElem\bin\Debug\PermMissingElem.exe.config
+D:\Github\Codility\PermMissingElem\bin\Debug\PermMissingElem.exe
+D:\Github\Codility\PermMissingElem\bin\Debug\PermMissingElem.pdb
+D:\Github\Codility\PermMissingElem\obj\Debug\PermMissingElem.csprojResolveAssemblyReference.cache
+D:\Github\Codility\PermMissingElem\obj\Debug\PermMissingElem.exe
+D:\Github\Codility\PermMissingElem\obj\Debug\PermMissingElem.pdb

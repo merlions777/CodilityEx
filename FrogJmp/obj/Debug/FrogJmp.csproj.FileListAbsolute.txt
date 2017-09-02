@@ -1,0 +1,11 @@
+D:\Practise\BinaryGap\FrogJmp\bin\Debug\FrogJmp.exe.config
+D:\Practise\BinaryGap\FrogJmp\obj\Debug\FrogJmp.csprojResolveAssemblyReference.cache
+D:\Practise\BinaryGap\FrogJmp\bin\Debug\FrogJmp.exe
+D:\Practise\BinaryGap\FrogJmp\bin\Debug\FrogJmp.pdb
+D:\Practise\BinaryGap\FrogJmp\obj\Debug\FrogJmp.exe
+D:\Practise\BinaryGap\FrogJmp\obj\Debug\FrogJmp.pdb
+D:\Github\Codility\FrogJmp\bin\Debug\FrogJmp.exe.config
+D:\Github\Codility\FrogJmp\bin\Debug\FrogJmp.exe
+D:\Github\Codility\FrogJmp\bin\Debug\FrogJmp.pdb
+D:\Github\Codility\FrogJmp\obj\Debug\FrogJmp.exe
+D:\Github\Codility\FrogJmp\obj\Debug\FrogJmp.pdb

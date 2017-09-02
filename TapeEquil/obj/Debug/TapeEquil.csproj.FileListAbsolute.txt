@@ -1,0 +1,6 @@
+D:\Practise\BinaryGap\TapeEquil\bin\Debug\TapeEquil.exe.config
+D:\Github\Codility\TapeEquil\bin\Debug\TapeEquil.exe.config
+D:\Github\Codility\TapeEquil\bin\Debug\TapeEquil.exe
+D:\Github\Codility\TapeEquil\bin\Debug\TapeEquil.pdb
+D:\Github\Codility\TapeEquil\obj\Debug\TapeEquil.exe
+D:\Github\Codility\TapeEquil\obj\Debug\TapeEquil.pdb

@@ -1,0 +1,12 @@
+D:\Practise\BinaryGap\CycilicRotation\bin\Debug\CycilicRotation.exe.config
+D:\Practise\BinaryGap\CycilicRotation\bin\Debug\CycilicRotation.exe
+D:\Practise\BinaryGap\CycilicRotation\bin\Debug\CycilicRotation.pdb
+D:\Practise\BinaryGap\CycilicRotation\obj\Debug\CycilicRotation.csprojResolveAssemblyReference.cache
+D:\Practise\BinaryGap\CycilicRotation\obj\Debug\CycilicRotation.exe
+D:\Practise\BinaryGap\CycilicRotation\obj\Debug\CycilicRotation.pdb
+D:\Github\Codility\CycilicRotation\bin\Debug\CycilicRotation.exe.config
+D:\Github\Codility\CycilicRotation\bin\Debug\CycilicRotation.exe
+D:\Github\Codility\CycilicRotation\bin\Debug\CycilicRotation.pdb
+D:\Github\Codility\CycilicRotation\obj\Debug\CycilicRotation.csprojResolveAssemblyReference.cache
+D:\Github\Codility\CycilicRotation\obj\Debug\CycilicRotation.exe
+D:\Github\Codility\CycilicRotation\obj\Debug\CycilicRotation.pdb

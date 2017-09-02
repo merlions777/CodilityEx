@@ -1,0 +1,12 @@
+D:\Practise\BinaryGap\OddOccurencesInArray\bin\Debug\OddOccurencesInArray.exe.config
+D:\Practise\BinaryGap\OddOccurencesInArray\bin\Debug\OddOccurencesInArray.exe
+D:\Practise\BinaryGap\OddOccurencesInArray\bin\Debug\OddOccurencesInArray.pdb
+D:\Practise\BinaryGap\OddOccurencesInArray\obj\Debug\OddOccurencesInArray.csprojResolveAssemblyReference.cache
+D:\Practise\BinaryGap\OddOccurencesInArray\obj\Debug\OddOccurencesInArray.exe
+D:\Practise\BinaryGap\OddOccurencesInArray\obj\Debug\OddOccurencesInArray.pdb
+D:\Github\Codility\OddOccurencesInArray\bin\Debug\OddOccurencesInArray.exe.config
+D:\Github\Codility\OddOccurencesInArray\bin\Debug\OddOccurencesInArray.exe
+D:\Github\Codility\OddOccurencesInArray\bin\Debug\OddOccurencesInArray.pdb
+D:\Github\Codility\OddOccurencesInArray\obj\Debug\OddOccurencesInArray.csprojResolveAssemblyReference.cache
+D:\Github\Codility\OddOccurencesInArray\obj\Debug\OddOccurencesInArray.exe
+D:\Github\Codility\OddOccurencesInArray\obj\Debug\OddOccurencesInArray.pdb
